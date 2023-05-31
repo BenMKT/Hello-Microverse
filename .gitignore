@@ -1,3 +1,6 @@
+# Files to ignore
+test.md
+
 # Logs
 logs
 *.log
