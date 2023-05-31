@@ -3,9 +3,6 @@
 
 <div align="center">
 
-  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
-  <br/>
-
   <h3><b>Hello World Microverse Project</b></h3>
 
 </div>
